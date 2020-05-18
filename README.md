@@ -1,3 +1,10 @@
+Demo             |  Details
+:-------------------------:|:-------------------------: 
+![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/deploymentOnPlayStore.jpg)
+![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/simpleInterfaceDemo.jpg)
+
+
+
 ### ==============README FROM ORIGINAL REPO BELOW===============
 
 # WhatsApp Stickers
