@@ -3,7 +3,7 @@ The VJC Bear, Bobby, has been a mascot for the junior college for decades. It em
 This was my virgin attempt at using Android Studio in 2019. I made use of a repo, please see below for original readme from source
 
 Credits:
-2 VJC Teachers(proj management and art respectively)
+2 VJC Teachers(proj management and art respectively) <br/>
 Carey Lai (copy pasta, figuring out the repo)
 
 Intuitive and Simple Interface      |  Deployment
