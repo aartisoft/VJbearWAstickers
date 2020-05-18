@@ -1,3 +1,7 @@
+The VJC Bear, Bobby, has been a mascot for the junior college for decades. It embodies the vigour, tenacity and mannerisms of Victorians. This project was started to enable the older generations, primarily more familiar with Whatsapp(than other platforms such as Telegram), to express themselves through the use of our school's mascot stickers.
+
+This was my virgin attempt at using Android Studio in 2018. I made use of a repo, please see below for original readme from source
+
 Intuitive and Simple Interface      |  Deployment
 :-------------------------:|:-------------------------: 
 ![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/deploymentOnPlayStore.jpg) | ![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/simpleInterfaceDemo.jpg)
