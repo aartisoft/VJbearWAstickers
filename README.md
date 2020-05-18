@@ -10,7 +10,9 @@ https://faq.whatsapp.com/en/general/26000345 <br/><br/>
 
 # Credits
 2 VJC Teachers(proj management and art respectively) <br/>
-Carey Lai (copy pasta, figuring out the repo)
+Carey Lai (copy pasta, figuring out the repo) <br/>
+https://github.com/WhatsApp/stickers/tree/master/Android
+
 
 Intuitive and Simple Interface      |  Deployment
 :-------------------------:|:-------------------------: 
