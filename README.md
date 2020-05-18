@@ -5,14 +5,11 @@ Unlike Telegram, whatsapp regulates all sticker packs. All sticker packs must be
 
 This was my virgin attempt at using Android Studio in Jan 2019. I made use of a repo, please see below for original readme from source <br/>
 
-# Related Resources 
-https://faq.whatsapp.com/en/general/26000345 <br/><br/> 
-
 # Credits
 2 VJC Teachers(proj management and art respectively) <br/>
 Carey Lai (copy pasta, figuring out the repo) <br/>
-https://github.com/WhatsApp/stickers/tree/master/Android
-
+https://github.com/WhatsApp/stickers/tree/master/Android <br/>
+https://faq.whatsapp.com/en/general/26000345 <br/>
 
 Intuitive and Simple Interface      |  Deployment
 :-------------------------:|:-------------------------: 
