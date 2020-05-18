@@ -1,7 +1,6 @@
-Demo             |  Details
+Intuitive and Simple Interface      |  Deployment
 :-------------------------:|:-------------------------: 
-![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/deploymentOnPlayStore.jpg)
-![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/simpleInterfaceDemo.jpg)
+![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/deploymentOnPlayStore.jpg) | ![deployed on whatsApp](https://github.com/careylzh/VJbearWAstickers/blob/master/simpleInterfaceDemo.jpg)
 
 
 
